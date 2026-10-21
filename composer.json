@@ -12,7 +12,7 @@
     ],
     "license": "Apache-2.0",
     "require": {
-        "php": "^8.4",
+        "php": "^8.5",
         "dedoc/scramble": "^0.13.31",
         "inertiajs/inertia-laravel": "^3.0",
         "intervention/image": "^4.0",
